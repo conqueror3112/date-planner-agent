@@ -523,8 +523,7 @@ If given more time, potential improvements:
 
 ## Support & Contact
 
-- **Issues**: Report bugs at [GitHub Issues](https://github.com/your-repo/issues)
-- **Questions**: Email at your-email@example.com
+- **Questions**: Email at omvarma1731@gmail.com
 - **Documentation**: See code comments and docstrings
 
 ---
